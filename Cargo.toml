@@ -1,0 +1,9 @@
+[package]
+name = "keyvz"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = "0.22.0"
+device_query = "1.1.3"
+
