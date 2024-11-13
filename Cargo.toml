@@ -1,7 +1,11 @@
 [package]
 name = "keyvz"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
+license = "MIT"
+authors = ["Lucy Jialin Lu <luxxxlucy@gmail.com>"]
+include = ["src/*", "Cargo.toml", "README.md", "LICENSE"]
+description = "Simple keystroke visualizer"
 
 [dependencies]
 eframe = "0.22.0"
